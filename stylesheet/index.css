@@ -1,0 +1,17 @@
+body {
+  width:100%;
+}
+.main-contents {
+  width:100%;
+  display:flex;
+  /* justify-content: flex-start; */
+  flex-wrap: wrap
+}
+.content {
+  background-color: antiquewhite;
+  width:50%;
+  margin:30 0 0 0;
+}
+img {
+  padding-left:70;
+}
